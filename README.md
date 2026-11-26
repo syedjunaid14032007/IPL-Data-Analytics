@@ -28,7 +28,7 @@ The cleaned datasets are used for the analysis. The large cleaned deliveries fil
 - Mumbai Indians recorded the most wins (144).
 - Virat Kohli topped the batting analysis with 8,014 runs.
 - Yuzvendra Chahal topped the bowler-credited wickets analysis with 205 wickets.
-- Chris Gay
+- Chris Gayle recorded the highest individual score of 175
 
 ## Power BI Dashboard Previews
 
