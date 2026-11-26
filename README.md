@@ -39,4 +39,4 @@ The cleaned datasets are used for the analysis. The large cleaned deliveries fil
 ![Team Performance](screenshots/Team_Performance.png)
 
 ### Player Performance
-![Player Performance](screenshots/Player_performance (2).png)
+![Player Performance](screenshots/Player_performance(2).png)
