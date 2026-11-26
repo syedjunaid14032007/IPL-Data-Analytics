@@ -29,3 +29,14 @@ The cleaned datasets are used for the analysis. The large cleaned deliveries fil
 - Virat Kohli topped the batting analysis with 8,014 runs.
 - Yuzvendra Chahal topped the bowler-credited wickets analysis with 205 wickets.
 - Chris Gay
+
+## Power BI Dashboard Previews
+
+### IPL Overview
+![IPL Overview](screenshots/IPL_Overview.png)
+
+### Team Performance
+![Team Performance](screenshots/Team_Performance.png)
+
+### Player Performance
+![Player Performance](screenshots/Player_Performance.png)
